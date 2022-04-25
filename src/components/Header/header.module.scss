@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding: 10px 40px;
+  border-bottom: 8px solid rgba(238, 12, 189, 0.31);
+  background-color: #560256;
+  color: #fff;
+}
+
+.icon {
+  width: 90px;
+  height: 90px;
+}
+
+@media (max-width: 425px) {
+  .icon {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+  }
+  .title {
+    font-size: 18px;
+  }
+}
