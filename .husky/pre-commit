@@ -1,4 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-yarn tsc --noEmit && lint-staged . && yarn prettier --write .
+yarn tsc --noEmit && yarn lint-staged . && yarn prettier --write .
