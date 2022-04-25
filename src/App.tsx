@@ -1,5 +1,18 @@
+import { Home } from './pages/Home';
+import './index.css';
+import { AppRoutes } from './routes/AppRoutes';
+
+import { Header } from './components/Header';
+import { Footer } from './components/Footer';
+
 function App() {
-  return <div>hello world</div>;
+  return (
+    <>
+      <Header />
+      <AppRoutes />
+      <Footer />
+    </>
+  );
 }
 
 export default App;
