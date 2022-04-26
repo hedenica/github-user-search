@@ -1,4 +1,3 @@
-import { Home } from './pages/Home';
 import './index.css';
 import { AppRoutes } from './routes/AppRoutes';
 

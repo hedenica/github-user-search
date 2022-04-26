@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from 'react-router-dom';
-import { Button } from '../components/Button';
-import { Spinner } from '../components/Spinner';
-import { useFetch } from '../hooks/useFetch';
+import { Button } from '../../components/Button';
+import { Spinner } from '../../components/Spinner';
+import { useFetch } from '../../hooks/useFetch';
 
 import styles from './user.module.scss';
 
