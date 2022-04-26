@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page renders correctly 1`] = `
+<div>
+  <div>
+    <h1>
+      Search for a user
+    </h1>
+    <div>
+      <div>
+        <input
+          autocapitalize="none"
+          class=""
+          name="username"
+          placeholder="Type a github username"
+          type="text"
+          value=""
+        />
+      </div>
+      <button
+        class=""
+        disabled=""
+        type="button"
+      >
+        search
+      </button>
+    </div>
+  </div>
+</div>
+`;
