@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders correctly 1`] = `
+<div>
+  <div>
+    <h2>
+      made with 💜 by hedênica
+    </h2>
+  </div>
+</div>
+`;
