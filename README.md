@@ -21,3 +21,5 @@ https://user-images.githubusercontent.com/56850413/165952437-1cba04ef-4b68-4f3c-
 - `yarn:test:watch` to run tests in watch mode
 - `yarn:test:coverage` to run coverage report
 
+## Disclaimer
+The github api is public and it has a limit of 60 request for a unauthenticated user
